@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\bin\Debug\WF-Aula71-IMC.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\bin\Debug\WF-Aula71-IMC.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\bin\Debug\WF-Aula71-IMC.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF_Aula71_IMC.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF_Aula71_IMC.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula71-IMC\obj\Debug\WF-Aula71-IMC.pdb
